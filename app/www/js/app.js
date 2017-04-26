@@ -49,7 +49,7 @@ app.controller('mainCtrl', function($scope, $ionicModal, localStorageService){
    * Configuring the task model, the place where the task it will be created.
    * Basically set the view (template) and the configuration of the create screenc.
    */
-  $ionicModal.fromTemplateUrl('new-task-modal.html',{
+  $ionicModal.fromTemplateUrl('../new-task-modal.html',{
     scope:$scope,
     animation:'slide-in-up'
   }).then(function(modal){
