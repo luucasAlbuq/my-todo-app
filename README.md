@@ -1,2 +1,6 @@
 # My Todo App
-Get your tasks done with this simple app, put everything in the list and get it done! MyTodoApp is just for you!
+
+This is a simple todo app, that has as goal turn you more familiar with Ionic Framework. 
+
+![Main Screen](https://raw.githubusercontent.com/luucasAlbuq/my-todo-app/master/app/www/img/main_screen.PNG)
+![Create Screen](https://raw.githubusercontent.com/luucasAlbuq/my-todo-app/master/app/www/img/create_screen.PNG)
